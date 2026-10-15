@@ -122,8 +122,8 @@ Version control · AI-assisted development · Debugging · Production troublesho
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedbadr-dev&show_icons=true&theme=transparent&hide_border=true&title_color=0A7EA4&icon_color=24ACB5&text_color=64748b" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadr-dev&layout=compact&theme=transparent&hide_border=true&title_color=0A7EA4&text_color=64748b" alt="Most used languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedbadr-dev&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&title_color=0A7EA4&icon_color=24ACB5&text_color=64748b&cache_seconds=1800" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadr-dev&layout=compact&theme=transparent&hide_border=true&title_color=0A7EA4&text_color=64748b&cache_seconds=1800" alt="Most used languages">
 </p>
 
 ---
