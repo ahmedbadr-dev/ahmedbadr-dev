@@ -1,4 +1,4 @@
-# Ahmed Badr
+**# Ahmed Badr
 ### Full-Stack & Mobile Engineer
 
 I build web and mobile applications with a focus on **practical engineering, clean architecture, and production-ready delivery** — from frontend interfaces and backend integrations to mobile builds, cloud services, and AI-powered features.
@@ -130,3 +130,4 @@ I'm open to full-time opportunities, contract projects, and collaborations invol
 <p align="center">
   <i>Thanks for visiting my profile. Feel free to explore my public repositories.</i>
 </p>
+**
