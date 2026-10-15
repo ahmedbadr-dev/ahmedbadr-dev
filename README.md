@@ -1,5 +1,5 @@
 # Ahmed Badr
-### Full-Stack & Mobile Engineer
+### Full-Stack & Mobile Developer
 
 Building web applications, mobile products, and business systems — from frontend architecture and backend APIs to database design, integrations, deployment, and AI-powered features.
 
