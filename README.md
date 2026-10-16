@@ -46,7 +46,7 @@ My focus is on delivering complete, maintainable products rather than isolated f
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion">
 </p>
 
 Responsive interfaces · RTL and Arabic-first experiences · Dashboards · Admin panels · Design systems · UI animations
@@ -122,8 +122,12 @@ Version control · AI-assisted development · Debugging · Production troublesho
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedbadr-dev&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=0A7EA4&icon_color=24ACB5&text_color=64748b&cache_seconds=1800" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedbadr-dev&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged&rank_icon=github&theme=transparent&hide_border=true&title_color=0A7EA4&icon_color=24ACB5&text_color=64748b&cache_seconds=1800" alt="GitHub statistics">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadr-dev&layout=compact&theme=transparent&hide_border=true&title_color=0A7EA4&text_color=64748b&cache_seconds=1800" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmedbadr-dev&theme=transparent&hide_border=true&ring=0A7EA4&fire=24ACB5&currStreakLabel=0A7EA4" alt="GitHub streak" />
 </p>
 
 ---
