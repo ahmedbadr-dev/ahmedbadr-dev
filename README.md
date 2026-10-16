@@ -13,7 +13,7 @@ Building web applications, mobile products, and business systems — from fronte
 
 ## About Me
 
-I'm a full-stack and mobile engineer based in **Egypt**, focused on building practical software products and business applications.
+I'm a full-stack and mobile Developer based in **Egypt**, focused on building practical software products and business applications.
 
 - **Web Development:** Modern interfaces, dashboards, admin panels, and responsive web applications.
 - **Mobile Development:** Flutter applications and React-based mobile apps using Capacitor.
